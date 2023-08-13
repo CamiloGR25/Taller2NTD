@@ -15,7 +15,7 @@
   --bs-indigo: #6610f2;
   --bs-purple: #7464a1;
   --bs-pink: #d63384;
-  --bs-red: #a16468;
+  --bs-red: #ee1120;
   --bs-orange: #fd7e14;
   --bs-yellow: #e4c662;
   --bs-green: #67c29c;
@@ -1749,7 +1749,7 @@ progress {
   --bs-table-striped-color: var(--bs-body-color);
   --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
   --bs-table-active-color: var(--bs-body-color);
-  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+  --bs-table-active-bg: rgb(234, 26, 26);
   --bs-table-hover-color: var(--bs-body-color);
   --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
   width: 100%;
@@ -1819,7 +1819,7 @@ progress {
 
 .table-primary {
   --bs-table-color: #000;
-  --bs-table-bg: #e0eceb;
+  --bs-table-bg: #12f2df;
   --bs-table-border-color: #cad4d4;
   --bs-table-striped-bg: #d5e0df;
   --bs-table-striped-color: #000;
